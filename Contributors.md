@@ -5849,4 +5849,5 @@ Keithan Philander
 - [Jeff Whetstone](https://github.com/korym)
 - [Steve Charpentier] (https://github.com/iso54)
 - [Donna Vito](https://github.com/dvito42)
+- [Max Grub](https://github.com/Maxgrub/)
 
